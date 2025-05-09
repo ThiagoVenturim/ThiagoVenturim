@@ -41,3 +41,5 @@
   </a>
 </div>
 
+
+[![Thiago WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoVenturim)](https://github.com/ThiagoVenturim)
