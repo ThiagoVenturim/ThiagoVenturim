@@ -34,11 +34,4 @@
  ### Estatísticas do GitHub
 
 
-<div align="center">
-  <a href="https://github.com/ThiagoVenturim">
-    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=ThiagoVenturim&theme=react-dark"/>
-   
 [![Thiago WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoVenturim)](https://github.com/ThiagoVenturim)
-  </a>
-</div>
-
