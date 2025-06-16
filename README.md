@@ -21,15 +21,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> </div>
 
 ---
-## Certificações
 
-| Plataforma          | Curso                               | Período      | Credencial |
-|---------------------|-------------------------------------|--------------|------------|
-| ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) | Get Started with Anaconda | Abr/2025 | `tmrcyj0w8h` |
-| ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) | Introduction to IoT | Mar/2025 | [Ver credencial](#) |
-| ![Bradesco](https://img.shields.io/badge/Fundação_Bradesco-8A0B0B?style=for-the-badge&logo=book&logoColor=white) | LGPD | Mar/2022 | `54F853B5...` |
-
----
 
  ### Estatísticas do GitHub
 
