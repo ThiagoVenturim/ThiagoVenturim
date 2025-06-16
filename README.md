@@ -3,7 +3,7 @@
 
 
 
-**Meu nome é Thiago Domingos tenho 18 anos me formei no Ensino Medio em 2024 na _Escola Estadual Pedro II_, fui estagiário na _SMSA-BH/PBH_, e atualmente estou _Bacharelando em Ciência de Dados e IA na [PUC Minas](https://www.pucminas.br/)_ .**
+**Meu nome é Thiago Domingos tenho 19anos me formei no Ensino Medio em 2024 na _Escola Estadual Pedro II_, fui estagiário na _SMSA-BH/PBH_, e atualmente estou _Bacharelando em Ciência de Dados e IA na [PUC Minas](https://www.pucminas.br/)_ .**
 
 ---
 
