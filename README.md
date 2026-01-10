@@ -39,10 +39,13 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoVenturim&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" /> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoVenturim&layout=compact&theme=great-gatsby" /> </div> 
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoVenturim&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoVenturim&layout=compact&theme=great-gatsby" />
+</div>
+ 
 
-[![Thiago WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoVenturim)](https://github.com/ThiagoVenturim)
-
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThiagoVenturim&layout=compact&theme=great-gatsby)
 
 ---
 
